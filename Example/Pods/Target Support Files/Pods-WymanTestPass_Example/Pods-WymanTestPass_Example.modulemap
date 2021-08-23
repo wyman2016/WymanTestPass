@@ -1,0 +1,6 @@
+framework module Pods_WymanTestPass_Example {
+  umbrella header "Pods-WymanTestPass_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

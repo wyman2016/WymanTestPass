@@ -1,0 +1,6 @@
+framework module WymanTestPass {
+  umbrella header "WymanTestPass-umbrella.h"
+
+  export *
+  module * { export * }
+}

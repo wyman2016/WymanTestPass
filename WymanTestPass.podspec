@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/296626979@qq.com/WymanTestPass'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '296626979@qq.com' => 'yan4.wu@symbio.com' }
+  s.author           = { '296626979@qq.com' => '296626979@qq.com' }
   s.source           = { :git => 'https://github.com/296626979@qq.com/WymanTestPass.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
